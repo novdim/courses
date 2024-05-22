@@ -51,7 +51,7 @@
             <br>API Automation
         </td>
         <td width="70%">
-            <img src="images/javaScript.png" width="100%" title="jenkins">
+            <img src="images/javaScript.png" width="100%" title="JavaScript">
         </td>
     </tr>
     <tr>
