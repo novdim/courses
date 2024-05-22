@@ -42,6 +42,19 @@
         </td>
     </tr>
     <tr>
+        <th colspan="2" style="text-align:center;"><h3>JavaScript</h3></th>
+    </tr>
+    <tr>
+        <td width="30%">
+            <br>JS
+            <br>Web Automation
+            <br>API Automation
+        </td>
+        <td width="70%">
+            <img src="images/javaScript.png" width="100%" title="jenkins">
+        </td>
+    </tr>
+    <tr>
         <th colspan="2" style="text-align:center;"><h3>Gitlab</h3></th>
     </tr>
     <tr>
